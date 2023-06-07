@@ -8,4 +8,4 @@ The powerful search functionality allows users to quickly find the items they de
 
 The technology stack used in this project includes React.js for front-end development, MongoDB for data storage, Express.js for building the API, and Node.js for server-side execution. By leveraging these technologies, we have created a robust and scalable e-commerce platform that offers essential features while providing a seamless user experience.
 
-Feel free to explore the codebase and contribute 
+Feel free to explore the codebase and contribute to the development of this project!
